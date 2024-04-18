@@ -1,0 +1,22 @@
+{
+  "activities": [
+    {
+      "id": 1713447439794,
+      "name": "Exercising",
+      "hours": 1,
+      "color": "green"
+    },
+    {
+      "id": 1713447444592,
+      "name": "Gaming",
+      "hours": 8,
+      "color": "red"
+    },
+    {
+      "id": 1713447460318,
+      "name": "Socialising",
+      "hours": 5,
+      "color": "yellow"
+    }
+  ]
+}
